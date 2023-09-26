@@ -1,0 +1,4 @@
+Nama lengkap : Shindy Ainun Nabilla
+-- case 1
+SELECT * FROM movies
+WHERE title LIKE 'The%';
